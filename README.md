@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**naithy/naithy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a novice BackEnd developer.
 
-Here are some ideas to get you started:
+### Connect with me:
+[img align="left" alt="Roman Balandin | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"][linkedin]
+[img align="left" alt="Roman Balandin | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"][instagram]
+[img align="left" alt="Roman Balandin | VK" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"][vk]
+[img align="left" alt="Roman Balandin | Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"][telegram]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[linkedin]: https://www.linkedin.com/in/naithy/
+[instagram]: https://www.instagram.com/na1thy/
+[vk]: https://vk.com/naithy
+[telegram]: https://t.me/naithy
