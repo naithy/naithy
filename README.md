@@ -8,6 +8,7 @@
 [<img align="left" alt="Roman Balandin | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="Roman Balandin | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
+<br />
 
 ### Languages and Tools:
 
