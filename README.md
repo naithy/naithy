@@ -3,10 +3,10 @@
 ### I'm a novice BackEnd developer.
 
 ### Connect with me:
-[<img align="left" alt="Roman Balandin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Roman Balandin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Roman Balandin | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="Roman Balandin | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Roman Balandin | LinkedIn" width="22px" src="https://img.icons8.com/color/100/000000/linkedin-2--v2.svg" />][linkedin]
+[<img align="left" alt="Roman Balandin | Instagram" width="22px" src="https://img.icons8.com/color/100/000000/instagram-new--v2.svg" />][instagram]
+[<img align="left" alt="Roman Balandin | VK" width="22px" src="https://img.icons8.com/color/100/000000/vk-com.svg" />][vk]
+[<img align="left" alt="Roman Balandin | Telegram" width="22px" src="https://img.icons8.com/color/100/000000/telegram-app--v2.svg" />][telegram]
 
 <br />
 
