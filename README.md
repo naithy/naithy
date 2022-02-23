@@ -4,7 +4,7 @@
 
 ### Connect with me:
 [<img align="left" alt="Roman Balandin | LinkedIn" width="30px" src="https://img.icons8.com/color/100/000000/linkedin-2--v2.svg" />][linkedin]
-[<img align="left" alt="Roman Balandin | Instagram" width="30px" src="https://img.icons8.com/color/100/000000/instagram-new--v2.svg" />][instagram]
+[<img align="left" alt="Roman Balandin | Instagram" width="30px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="Roman Balandin | VK" width="30px" src="https://img.icons8.com/color/100/000000/vk-com.svg" />][vk]
 [<img align="left" alt="Roman Balandin | Telegram" width="30px" src="https://img.icons8.com/color/100/000000/telegram-app--v2.svg" />][telegram]
 
