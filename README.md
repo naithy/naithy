@@ -24,7 +24,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/naithy/
-[instagram]: https://www.instagram.com/na1thy/
+[instagram]: https://www.instagram.com/naithyy/
 [vk]: https://vk.com/naithy
 [telegram]: https://t.me/naithy
 
